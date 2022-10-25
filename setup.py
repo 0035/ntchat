@@ -194,7 +194,7 @@ extension.extra_compile_cpp_args = extra_compile_cpp_args[target_os]
 
 setup(
     name='ntchat',
-    version='0.1.16',
+    version='0.1.17',
     description='About Conversational RPA SDK for Chatbot Makers',
     long_description="",
     long_description_content_type='text/markdown',
@@ -209,7 +209,8 @@ setup(
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
-        'Programming Language :: Python :: 3.10'
+        'Programming Language :: Python :: 3.10',
+        'Programming Language :: Python :: 3.11'
     ],
     package_data={"": ["py.typed", "*.pyi", "helper*.dat"]},
     include_package_data=False,
