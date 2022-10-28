@@ -19,8 +19,7 @@
 ## 帮助文档
 - 查看 [常见问题](docs/FAQ.md)
 - 查看 [常用示例](examples)
-- 查看 [NtChatHttp接口示例](fastapi_example)  
-- 加入群聊 [PyXCGUI&NtChat交流群](https://jq.qq.com/?_wv=1027&k=oIXzbTbI)
+- 查看 [NtChatHttp接口示例](fastapi_example)
 - 查看 [PyXCGUI项目](https://github.com/smallevilbeast/pyxcgui) 
 
 ## 安装
@@ -202,7 +201,3 @@ if __name__ == '__main__':
     app.exit()
 
 ```
-
-帮助&支持
--------------------------
-点击链接加入群聊 [PyXCGUI&NtChat交流群](https://jq.qq.com/?_wv=1027&k=oIXzbTbI)
